@@ -23,10 +23,6 @@ SecureSight is a fictional CCTV surveillance dashboard that allows monitoring up
 ```
 securisight-dashboard/
 ├── index.html       # Main HTML layout
-├── styles.css       # Custom CSS (optional; utility-first using Tailwind CSS)
-├── dashboard.js     # JavaScript for UI logic and live incident feed
-├── README.md        # Project documentation
-└── assets/          # Thumbnails, videos, icons, optional assets
 ```
 
 ## 🚀 Getting Started
